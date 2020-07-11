@@ -1,5 +1,5 @@
 # React_Acesso_Issues_Repositórios
-Com um projeto mais elaborado no estudo sobre React, você pode adicionar repositórios de usuários do github e ao clicar em detalhes, verificar as últimas issues dela, além de ver informações sobre quem as escreveu.
+Com um projeto mais elaborado no estudo sobre React fornecido pela RocketSeat, você pode adicionar repositórios de usuários do github e ao clicar em detalhes, verificar as últimas issues dela, além de ver informações sobre quem as escreveu.
 
 Para rodar o projeto, você precisa instalar as dependências com:
 
